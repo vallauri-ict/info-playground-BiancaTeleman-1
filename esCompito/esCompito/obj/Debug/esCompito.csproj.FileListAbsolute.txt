@@ -1,0 +1,9 @@
+F:\Classe quinta\Info\Teoria\esCompito\esCompito\bin\Debug\esCompito.exe.config
+F:\Classe quinta\Info\Teoria\esCompito\esCompito\bin\Debug\esCompito.exe
+F:\Classe quinta\Info\Teoria\esCompito\esCompito\bin\Debug\esCompito.pdb
+F:\Classe quinta\Info\Teoria\esCompito\esCompito\obj\Debug\esCompito.csproj.AssemblyReference.cache
+F:\Classe quinta\Info\Teoria\esCompito\esCompito\obj\Debug\esCompito.Properties.Resources.resources
+F:\Classe quinta\Info\Teoria\esCompito\esCompito\obj\Debug\esCompito.csproj.GenerateResource.cache
+F:\Classe quinta\Info\Teoria\esCompito\esCompito\obj\Debug\esCompito.csproj.CoreCompileInputs.cache
+F:\Classe quinta\Info\Teoria\esCompito\esCompito\obj\Debug\esCompito.exe
+F:\Classe quinta\Info\Teoria\esCompito\esCompito\obj\Debug\esCompito.pdb
