@@ -1,0 +1,10 @@
+E:\Classe quinta\Info\Teoria\es11-esStoredProcedureBanche\es11-esStoredProcedureBanche\bin\Debug\es11-esStoredProcedureBanche.exe.config
+E:\Classe quinta\Info\Teoria\es11-esStoredProcedureBanche\es11-esStoredProcedureBanche\bin\Debug\es11-esStoredProcedureBanche.exe
+E:\Classe quinta\Info\Teoria\es11-esStoredProcedureBanche\es11-esStoredProcedureBanche\bin\Debug\es11-esStoredProcedureBanche.pdb
+E:\Classe quinta\Info\Teoria\es11-esStoredProcedureBanche\es11-esStoredProcedureBanche\obj\Debug\es11-esStoredProcedureBanche.csprojAssemblyReference.cache
+E:\Classe quinta\Info\Teoria\es11-esStoredProcedureBanche\es11-esStoredProcedureBanche\obj\Debug\es11_esStoredProcedureBanche.Form1.resources
+E:\Classe quinta\Info\Teoria\es11-esStoredProcedureBanche\es11-esStoredProcedureBanche\obj\Debug\es11_esStoredProcedureBanche.Properties.Resources.resources
+E:\Classe quinta\Info\Teoria\es11-esStoredProcedureBanche\es11-esStoredProcedureBanche\obj\Debug\es11-esStoredProcedureBanche.csproj.GenerateResource.cache
+E:\Classe quinta\Info\Teoria\es11-esStoredProcedureBanche\es11-esStoredProcedureBanche\obj\Debug\es11-esStoredProcedureBanche.csproj.CoreCompileInputs.cache
+E:\Classe quinta\Info\Teoria\es11-esStoredProcedureBanche\es11-esStoredProcedureBanche\obj\Debug\es11-esStoredProcedureBanche.exe
+E:\Classe quinta\Info\Teoria\es11-esStoredProcedureBanche\es11-esStoredProcedureBanche\obj\Debug\es11-esStoredProcedureBanche.pdb

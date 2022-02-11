@@ -32,4 +32,31 @@
 
 		insert into StoricoAggiornamenti values(@number, @fullName, @Country, @dateBirth, @teamId, @podiumsNumber, @numberNew, @fullNameNew, @CountryNew, @dateBirthNew, @teamIdNew, @podiumsNumberNew, @data)
 	END
+GO
+	CREATE TRIGGER [dbo].[TriggerUpdateNew]
+	ON [dbo].[Driver]
+	AFTER UPDATE
+	AS BEGIN
+		SET NoCount ON
 
+		DECLARE @currDate DATETIME
+		SET @currDate=CURRENT_TIMESTAMP
+
+		INSERT INTO StoricoAggiornamenti(
+		number,
+		full_name,
+		country,
+		date_birth,
+		team_id,
+		podiums_number,
+		numerNew,
+		full_nameNew,
+		countryNew,
+		date_birthNew,
+		team_idNew,
+		podiums_numberNew,
+		data)
+		SELECT d.*,i.*
+		FROM deleted d,inserted i
+		WHERE d.number=i.number
+		)
