@@ -1,0 +1,10 @@
+C:\Users\Utente\Desktop\info-playground-BiancaTeleman-1-master\es12-compitoStoredProcedure\es12-compitoStoredProcedure\bin\Debug\es12-compitoStoredProcedure.exe.config
+C:\Users\Utente\Desktop\info-playground-BiancaTeleman-1-master\es12-compitoStoredProcedure\es12-compitoStoredProcedure\bin\Debug\es12-compitoStoredProcedure.exe
+C:\Users\Utente\Desktop\info-playground-BiancaTeleman-1-master\es12-compitoStoredProcedure\es12-compitoStoredProcedure\bin\Debug\es12-compitoStoredProcedure.pdb
+C:\Users\Utente\Desktop\info-playground-BiancaTeleman-1-master\es12-compitoStoredProcedure\es12-compitoStoredProcedure\obj\Debug\es12-compitoStoredProcedure.csprojAssemblyReference.cache
+C:\Users\Utente\Desktop\info-playground-BiancaTeleman-1-master\es12-compitoStoredProcedure\es12-compitoStoredProcedure\obj\Debug\es12_compitoStoredProcedure.Form1.resources
+C:\Users\Utente\Desktop\info-playground-BiancaTeleman-1-master\es12-compitoStoredProcedure\es12-compitoStoredProcedure\obj\Debug\es12_compitoStoredProcedure.Properties.Resources.resources
+C:\Users\Utente\Desktop\info-playground-BiancaTeleman-1-master\es12-compitoStoredProcedure\es12-compitoStoredProcedure\obj\Debug\es12-compitoStoredProcedure.csproj.GenerateResource.cache
+C:\Users\Utente\Desktop\info-playground-BiancaTeleman-1-master\es12-compitoStoredProcedure\es12-compitoStoredProcedure\obj\Debug\es12-compitoStoredProcedure.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\info-playground-BiancaTeleman-1-master\es12-compitoStoredProcedure\es12-compitoStoredProcedure\obj\Debug\es12-compitoStoredProcedure.exe
+C:\Users\Utente\Desktop\info-playground-BiancaTeleman-1-master\es12-compitoStoredProcedure\es12-compitoStoredProcedure\obj\Debug\es12-compitoStoredProcedure.pdb
